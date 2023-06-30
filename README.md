@@ -1,4 +1,4 @@
-# Project Title
+# EduEase
 
 EduEase - Student and Teacher Tools Website
 
